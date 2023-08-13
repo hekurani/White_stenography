@@ -1,0 +1,15 @@
+Whitespace steganography is a technique used to hide information within the whitespace characters of a text document or webpage.
+
+Whitespace characters are spaces, tabs, and line breaks that are used to separate words and sentences in text. Because whitespace is usually invisible to the human eye, it can be used to conceal hidden messages without arousing suspicion.
+
+To hide information using whitespace steganography, a sender first needs to encode their message into a binary format. The next step involves replacing certain whitespace characters in the text with the encoded binary values. 
+
+This can be done in a variety of ways, such as by altering the spacing between words, changing the number of tabs or line breaks, or using a combination of these techniques.
+
+The recipient can then use a decoder tool to extract the hidden message from the modified text. The decoder will analyze the whitespace characters and determine which ones have been modified to contain the hidden message. 
+
+The binary values can then be converted back into readable text, allowing the recipient to read the original message.
+
+One advantage of whitespace steganography is that it can be used to transmit messages undetected in plain sight, as most people do not pay attention to the whitespace characters in text. 
+
+However, this technique has limitations, such as the amount of information that can be hidden, and the risk of the hidden message being accidentally revealed or removed during editing or transmission.
